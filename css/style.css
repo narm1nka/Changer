@@ -1,0 +1,44 @@
+#kvadrat{
+    width: 100px;
+    height: 100px;
+    background: #89a9b6;
+    float: left;
+    margin: 5px 5px;
+}
+
+.table {
+    width: 600px;
+    min-height: 100px;
+    float: right;
+    background-color: #b7c7d7;
+    margin: 20px 20px;
+}
+
+.design {
+    width: 400px;
+    height: 45px;
+    background-color: #efeaf1;
+    border: 2px solid #efeaf1 ;
+    border-bottom: 3px solid #ff949a !important;
+    border-right: 3px solid #ff949a !important;
+    border-radius: 8px;
+    margin-left: 20px;
+    font-family: Century Gothic;
+}
+
+.design2 {
+    width: 100px;
+    height: 45px;
+    background-color: #efeaf1;
+    border: 2px solid #efeaf1 ;
+    border-bottom: 3px solid #ff949a !important;
+    border-right: 3px solid #ff949a !important;
+    border-radius: 8px;
+    margin-left: 20px;
+    font-family: Century Gothic;
+}
+
+.design3 {
+    font-family: Century Gothic;
+    font-size: 15px;
+}
